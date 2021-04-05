@@ -1,0 +1,27 @@
+{
+  "name": "development",
+  "version": "1.0.0",
+  "description": "A simple Hello World Node App",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackKweon/node-hello-world.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackKweon/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/JackKweon/node-hello-world#readme"
+}
